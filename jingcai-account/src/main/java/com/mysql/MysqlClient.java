@@ -17,10 +17,10 @@ public class MysqlClient {
 	
 	
 	
-	public static final String MYSQL_HOST = "10.40.6.187";
+	public static final String MYSQL_HOST = "10.40.6.187";//114.67.74.207
 	public static final String DB = "db1";
 	public static final String USERNAME = "root";
-	public static final String PWD = "123456";
+	public static final String PWD = "JDser110995.";
 	public static final String TEST_SELECT_CMD = "select * from hotnews limit 10";
 	//public static final String TEST_EXECUTE_PROCUDURE = "call dw_multi()";//调用存储过程
 	public static final int MYSQL_PORT = 3306;
