@@ -8,7 +8,13 @@ import com.mysql.cmd.MysqlCmd;
 import com.mysql.cmd.SelectQueryCmd;
 import com.mysql.connection.Connection;
 
-
+/*
+	* erp.jd.com
+	* jdcloud.com
+	* cf.jd.com
+	* mlmj.test.jdcloud.com
+	* sso.jd.com
+*/
 public class MysqlClient {
 	
 	private Map<Integer, Connection> connMap = new HashMap<Integer, Connection>();
