@@ -11,9 +11,10 @@ import com.mysql.connection.Connection;
 /*
 	* erp.jd.com
 	* jdcloud.com
-	* cf.jd.com
 	* mlmj.test.jdcloud.com
 	* sso.jd.com
+	* login.jdcloud.com
+	* passport.jd.com
 */
 public class MysqlClient {
 	
