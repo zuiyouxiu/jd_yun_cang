@@ -22,7 +22,7 @@ public class AccountTest {
 
     @Test
     public void findTest() {
-        Account jack = accountService.selectOneByName("jack");
+        Account jack = accountService.selectOneByName("jackson");
         System.out.println(jack);
     }
 
